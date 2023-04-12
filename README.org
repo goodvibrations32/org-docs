@@ -5,3 +5,5 @@
 This is a repository containing my thesis for the Bachelor degree in Mechanical Engineering at the Technological Institute of Crete in Heraklion.
 * Special thanks
 All the formation for latex was inspired and guided from another [[https://github.com/dangom/org-thesis][fellow Emacs user]].
+
+* Migrated to the univercity organization with the code project [[https://github.com/hmu-mech-npap/diss.tn.doc][here]]
